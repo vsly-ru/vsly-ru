@@ -1,7 +1,5 @@
 #### 👋 Hi there, I'm Vasiliy - aka vSLY
-[<img align="left" alt="sly.ru | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/vsly.ru/)
-[<img align="left" alt="@vsly0 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/vsly0)
-<br />
+
 ### I'm always learning something new and exciting!
 
 - 🔭 I'm currently working on an automatic, ML-based, cryptocurrency trading bot!
