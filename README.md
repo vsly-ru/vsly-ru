@@ -5,8 +5,7 @@
 - 🔭 I'm currently working on an automatic, ML-based, cryptocurrency trading bot!
 - 🛠 I'm currently using NodeJS, TypeScript, Apache Pulsar and C++;
 - 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on opensource projects
-- 💬 Ask me about anything 😄
+- 👯 I’m open to collaborate on opensource projects
 
 
 ### Tools:<br />
