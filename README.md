@@ -2,8 +2,8 @@
 
 ### I'm always learning something new and exciting!
 
-- 🔭 I'm currently working on an automatic, ML-based, cryptocurrency trading bot!
-- 🛠 I'm currently using NodeJS, TypeScript, Apache Pulsar and C++;
+- 🔭 I'm currently working on an automatic, ML-based, cryptocurrency trading bot
+- 🛠 I'm using NodeJS, TypeScript, Apache Pulsar and C++;
 - 🌱 I’m currently learning Flutter
 - 👯 I’m open to collaborate on opensource projects
 
