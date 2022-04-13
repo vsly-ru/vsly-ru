@@ -4,8 +4,6 @@
 
 - 🔭 I'm currently working on an automatic, ML-based, cryptocurrency trading bot
 - 🛠 I'm using TypeScript, Flutter, C++ and RabbitMQ
-- 🌱 I’m currently learning Agile
-
 
 <br />
 
