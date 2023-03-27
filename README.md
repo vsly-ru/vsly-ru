@@ -4,7 +4,7 @@
 
 - 💻 Middle Backend Engineer (TS/Nest, C++)
 - 📱 Middle Flutter Developer (Stacked, BLOC, flutter_hooks, dartz, elementary)
-- 📦 Junior Software Architect (**DDD**, EBA, MSA, Event Bus, Event Sourcing, protobuf) 
+- 📦 Junior Systems Architect (**DDD**, EBA, MSA, Event Bus, Event Sourcing, protobuf) 
 - 🌠 Junior Frontend Developer (Vue.js, Svelte.js ❤️)
 - 🎚 Amateur Electronics Engineer (STM32 programming in C/C++, PCB deisgn with MCU, basic SMPS design)
 
